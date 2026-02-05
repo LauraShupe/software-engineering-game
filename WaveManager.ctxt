@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=WaveManager
+comment0.text=\r\n\ WaveManager\ \u2013\ manages\ enemy\ waves\ in\ Stage2World.\r\n
+comment1.params=world
+comment1.target=WaveManager(Stage2World)
+comment2.params=
+comment2.target=void\ update()
+comment2.text=Called\ every\ act()\ in\ Stage2World
+comment3.params=
+comment3.target=void\ startNextWave()
+comment3.text=Start\ next\ wave
+comment4.params=
+comment4.target=void\ stopWaves()
+comment4.text=Stop\ spawning\ waves\ (e.g.,\ base\ destroyed)
+comment5.params=
+comment5.target=int\ getWaveNumber()
+numComments=6

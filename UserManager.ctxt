@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=UserManager
+comment1.params=username\ password
+comment1.target=PlayerSession\ login(java.lang.String,\ java.lang.String)
+comment1.text=Login\ a\ user
+comment2.params=username\ password
+comment2.target=boolean\ register(java.lang.String,\ java.lang.String)
+comment2.text=Register\ a\ new\ user
+comment3.params=username\ wave\ resources
+comment3.target=void\ saveScore(java.lang.String,\ int,\ int)
+comment3.text=Save\ a\ player's\ wave\ and\ resources
+comment4.params=
+comment4.target=java.util.List\ getLeaderboard()
+comment4.text=Get\ leaderboard\ sorted\ by\ wave\ descending,\ then\ resources\ descending
+comment5.params=username
+comment5.target=boolean\ userExists(java.lang.String)
+comment5.text=Check\ if\ a\ username\ exists
+numComments=6

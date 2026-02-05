@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MusicManager
+comment1.params=filename\ volume
+comment1.target=void\ playMusic(java.lang.String,\ int)
+comment1.text=Start\ looping\ background\ music.
+comment2.params=
+comment2.target=void\ stopMusic()
+comment2.text=Stop\ the\ currently\ playing\ background\ music.
+comment3.params=filename\ volume
+comment3.target=void\ playSFX(java.lang.String,\ int)
+comment3.text=Play\ a\ one-time\ sound\ effect\ (not\ looped).
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Resource
+comment0.text=\r\n\ Resource\ \u2013\ collectible\ item\ in\ Stage\ 1.\r\n
+comment1.params=
+comment1.target=Resource()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkCollection()
+comment3.text=\r\n\ Check\ if\ the\ player\ has\ touched\ this\ resource.\r\n\ If\ so,\ collect\ it\ and\ remove\ from\ world.\r\n
+numComments=4

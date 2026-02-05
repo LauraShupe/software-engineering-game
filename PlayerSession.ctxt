@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PlayerSession
+comment1.params=username\ startingResources
+comment1.target=PlayerSession(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getUsername()
+comment3.params=
+comment3.target=int\ getResources()
+comment4.params=amount
+comment4.target=void\ addResources(int)
+comment5.params=amount
+comment5.target=boolean\ spendResources(int)
+comment6.params=amount
+comment6.target=void\ setResources(int)
+numComments=7

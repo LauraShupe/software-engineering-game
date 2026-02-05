@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Base
+comment0.text=\r\n\ Base\ \u2013\ the\ player\u2019s\ base\ that\ enemies\ try\ to\ destroy.\r\n
+comment1.params=
+comment1.target=Base()
+comment2.params=amount
+comment2.target=void\ takeDamage(int)
+comment2.text=\r\n\ Called\ when\ an\ enemy\ reaches\ the\ base.\r\n
+comment3.params=
+comment3.target=int\ getHealth()
+numComments=4

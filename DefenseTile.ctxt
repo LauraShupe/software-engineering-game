@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=DefenseTile
+comment0.text=\r\n\ DefenseTile\ \u2013\ a\ tile\ in\ Stage2World\ where\ any\ defense\ can\ be\ placed.\r\n
+comment1.params=
+comment1.target=DefenseTile()
+comment2.params=d
+comment2.target=void\ setDefense(greenfoot.Actor)
+comment2.text=Set\ a\ defense\ on\ this\ tile
+comment3.params=
+comment3.target=boolean\ hasDefense()
+comment3.text=Check\ if\ any\ defense\ exists\ on\ this\ tile
+comment4.params=
+comment4.target=greenfoot.Actor\ getDefense()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

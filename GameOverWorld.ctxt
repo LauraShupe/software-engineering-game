@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameOverWorld
+comment0.text=\r\n\ GameOverWorld\ \u2013\ displays\ when\ the\ game\ ends\ (Stage1\ failure\ or\ Stage2\ completion).\r\n
+comment1.params=stage2
+comment1.target=GameOverWorld(Stage2World)
+comment2.params=session\ waveNumber\ resources
+comment2.target=GameOverWorld(PlayerSession,\ int,\ int)
+comment3.params=session\ resources\ waveNumber
+comment3.target=void\ setupWorld(PlayerSession,\ int,\ int)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
