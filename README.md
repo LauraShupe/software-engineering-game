@@ -54,12 +54,6 @@ The system architecture was refined across iterations to improve maintainability
 
 
 
-## How to Run
-
-[Brief instructions or “See src/ for implementation details”]
-
-
-
 ## Documentation
 
 - Use Case Model (`docs/use-cases.md`)
