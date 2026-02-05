@@ -56,11 +56,13 @@ The system architecture was refined across iterations to improve maintainability
 
 ## Documentation
 
+- Requirements (`docs/requirements.md`)
+  
 - Use Case Model (`docs/use-cases.md`)
 
 - Sequence Diagrams (`docs/sequence-diagrams.md`)
 
-- Domain Model (`docs/domain-model.png`)
+- Design Class Diagram (`docs/design-class-diagram.md`)
 
 - Traceability Matrix (`docs/traceability-matrix.md`)
 
